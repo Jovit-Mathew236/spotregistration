@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spotregistration/static/css/main.073c9b0a.css",
+    "main.js": "/spotregistration/static/js/main.84360516.js",
+    "static/js/787.6d22b0c5.chunk.js": "/spotregistration/static/js/787.6d22b0c5.chunk.js",
+    "static/media/logo.svg": "/spotregistration/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/spotregistration/index.html",
+    "main.073c9b0a.css.map": "/spotregistration/static/css/main.073c9b0a.css.map",
+    "main.84360516.js.map": "/spotregistration/static/js/main.84360516.js.map",
+    "787.6d22b0c5.chunk.js.map": "/spotregistration/static/js/787.6d22b0c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84360516.js"
+  ]
+}
