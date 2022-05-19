@@ -1,23 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+// import Dashboard from './components/Dashboard';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+
+import Form from "./components/Form";
+import Eventreg from "./components/Eventreg"
+// import Venture from './components/Venture';
+// import Techquiz from './components/Techquiz';
+// import Techwrite from './components/Techwrite';
+// import Treahunt from './components/Treahunt';
+// import Riddle from './components/Riddle';
+// import Photography from './components/Photography';
+// import Head from './components/head';
+// import Header from './components/Header';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+
+      <BrowserRouter>
+        <Routes >
+          <Route exact path='/' element={<Form/>} />
+          <Route path='/eventreg' element={<Eventreg/>}/>
+          {/* <Route path='HACK-IT-ON/dash' element={<Dashboard/>} />
+          <Route path='mech/venture' element={<Venture />} />
+          <Route path='mech/techquiz' element={<Techquiz />} />
+          <Route path='mech/techwrite' element={<Techwrite />} />
+          <Route path='civil/onlinetreasurehunt' element={<Treahunt />} />
+          <Route path='eee/riddle' element={<Riddle />} />
+          <Route path='eee/photography' element={<Photography />} /> */}
+          {/* </Route> */}
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
