@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/spotregistration/static/css/main.073c9b0a.css",
-    "main.js": "/spotregistration/static/js/main.84360516.js",
-    "static/js/787.6d22b0c5.chunk.js": "/spotregistration/static/js/787.6d22b0c5.chunk.js",
-    "static/media/logo.svg": "/spotregistration/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/spotregistration/static/css/main.d683476b.css",
+    "main.js": "/spotregistration/static/js/main.d6149559.js",
+    "static/media/emergebg.jpg": "/spotregistration/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/spotregistration/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/spotregistration/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/spotregistration/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
     "index.html": "/spotregistration/index.html",
-    "main.073c9b0a.css.map": "/spotregistration/static/css/main.073c9b0a.css.map",
-    "main.84360516.js.map": "/spotregistration/static/js/main.84360516.js.map",
-    "787.6d22b0c5.chunk.js.map": "/spotregistration/static/js/787.6d22b0c5.chunk.js.map"
+    "main.d683476b.css.map": "/spotregistration/static/css/main.d683476b.css.map",
+    "main.d6149559.js.map": "/spotregistration/static/js/main.d6149559.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.84360516.js"
+    "static/css/main.d683476b.css",
+    "static/js/main.d6149559.js"
   ]
 }
